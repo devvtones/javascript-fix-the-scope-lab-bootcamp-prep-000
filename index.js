@@ -1,11 +1,11 @@
 var animal = 'dog'
 
-function 
+function Fix the Scope(){
 function myAnimal() {
   var animal = 'dog'
   return animal
+  }
 }
-
 function yourAnimal() {
   // How can we make sure that this function
   // and the above function both pass?
