@@ -1,8 +1,6 @@
 var animal = 'dog'
 
-function Fix the Scope(){
 function myAnimal() {
-  var animal = 'dog'
   return animal
   }
 }
